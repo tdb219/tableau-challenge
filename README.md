@@ -1,0 +1,3 @@
+# tableau-challenge
+
+New York City's Citi Bike program appears to be most popular in the morning from 7am to 9am, followed by the interval between 5pm and 8pm. There is very little ridership over night between these two intervals, although there is a degree of sustained ridership during the day. This correllates with typical commute times as well as times when tourist attractions are open and available. During the month of July, the Grove Street station was the most popular station for both starting and ending trips, followed by the Hamilton Park station. The longest aggregate average trip duration came from the Leondard Gordon Park station, meaning most of the longest trips were taken from one of the northernmost stations in the city.
